@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: oswald, Arial, Helvetica, sans-serif;
+}
+
+/*.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+}*/
+
+
+
+h1{
+    height: 18vw;
+    display: flex;
+    width: 60vw;
+
+
+}
+header{
+    height: 16vh;
+    background-color: black;
+    /* margin: 5px 10px 5px; */
+    width: 100vw;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.primeira.sessao{
+        /*border: 1px solid black;*/
+        width: 40vw;
+        margin: 5px 10px 5px;
+        display: flex;
+        
+        justify-content: space-between;
+}
+   
+.color1{
+    color: rgb(211, 176, 110);
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: space-around;
+    
+}
+
+
+.segundo{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+    height: 80vh;
+    align-items: center;
+}
+.titulo{
+   height: 1vh;
+   font-size: 30px;
+    text-align: center;
+   
+}
+main{
+    height: 80vh;
+}
+
+.paragrafo{
+    width: 25vw;
+    height: 14vh;
+    font-size: 16px;
+    text-align: justify;
+    align-items: center;
+    font-weight: 300;
+}
+ body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: first baseline;
+    background-image: url(lugar3.png);
+ }
+.botao{
+    display: flex;
+    align-items: left;
+    gap: 30px;
+}
+.botao-link{
+    height: 5vh;
+    width: 15vw;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none ;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    text-decoration: none;
+}
+   

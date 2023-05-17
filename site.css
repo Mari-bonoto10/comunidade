@@ -1,0 +1,156 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: oswald, Arial, Helvetica, sans-serif;
+}
+
+#texto{
+    position: absolute;
+    font-size: 32px;
+    left: 250px;
+    top: 135px;
+}
+.vestimenta{
+    width: 198px;
+    
+    
+}
+
+.festa{
+    width: 200px;
+}
+.comida{
+    width: 200px;
+}
+/*.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+}*/
+
+section{
+    background-color: rgb(253, 253, 121);
+    display: flex;
+    /* flex-direction: column; */
+    width: 105vh;
+    
+}
+
+.container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    padding: 3vh;
+}
+
+header{
+    background-color: rgb(3, 95, 3);
+    height: 11vh;
+    width: 100vw;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    /*margin: 5px 10px 5px;*/ 
+}
+h2{
+    color: white;    
+}
+.paragrafo{
+    align-items: center;
+    text-align: justify;
+    width: 45vw;
+    height: 2vh;
+    font-size: 14px; 
+}
+
+.paragrafo1{
+    align-items: center;
+    text-align: justify;
+    width: 45vw;
+    height: 5vh;
+    font-size: 14px;   
+}
+   
+.paragrafo6{
+    align-items: center;
+    text-align: justify;
+    width: 46vw;
+    height: 8vh;
+    font-size: 14px;
+}
+.paragrafo7{
+    align-items: center;
+    text-align: justify;
+    width: 46vw;
+    height: 7vh;
+    font-size: 14px;
+}
+.paragrafo8{
+    align-items: center;
+    text-align: justify;
+    width: 46vw;
+    height: 3vh;
+    font-size: 14px;
+}
+.paragrafo9{
+    align-items: center;
+    text-align: justify;
+    width: 46vw;
+    height: 8vh;
+    font-size: 14px;
+}
+.paragrafo2{
+    align-items: center;
+    text-align: justify;
+    width: 46vw;
+    height: 23vh;
+    font-size: 14px;
+}
+.paragrafo4{
+    align-items: center;
+    text-align: justify;
+    width: 43vw;
+    height: 33vh;
+    font-size: 14px;
+}
+.paragrafo10{
+    align-items: center;
+    text-align: justify;
+    width: 43vw;
+    height: 25vh;
+    font-size: 14px;
+}
+.paragrafo11{
+    align-items: center;
+    text-align: justify;
+    width: 43vw;
+    height: 27vh;
+    font-size: 14px;
+
+}
+.paragrafo12{
+    align-items: center;
+    text-align: justify;
+    width: 44vw;
+    height: 5vh;
+    font-size: 14px;
+}
+.paragrafo13{
+    align-items: center;
+    text-align: justify;
+    width: 43vw;
+    height: 20vh;
+    font-size: 14px;
+}
+.imagem{
+    height: 104vh;
+    width: 52vw;
+
+}
+.imagem2{
+    width: 53vw;
+}
+.imagem3{
+    width: 60vw;
+}
